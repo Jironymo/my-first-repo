@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
+=======
+>>>>>>> new_branch
 now the second line is the third
 the then third line
