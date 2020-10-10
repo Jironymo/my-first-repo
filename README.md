@@ -1,29 +1,26 @@
-# This is a large heading
+# Jironymo Jirolamus
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+the man of the World I am, so no country of residence is mentioned here.
+*Hello, World!*
 
-- This is
-- an unordered
-- list
+## Occupation
 
-1. This is
-2. an ordered
-3. list
+It is great time to live in, exploring numberless options the age provides us with. 
 
-Here is `some code` in the middle of a sentence.
+## Hobby
 
-```
-This is
-a block
-of code
-```
+I like to play [D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) in the spare time and read books.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## Contact
 
-![This is an image.](https://dyl80ryjxr1ke.cloudfront.net/external_assets/hero_examples/hair_beach_v1785392215/original.jpeg)
+You can reach me via: 
+- greedisneutral@gmail.com.
+- Jironymo@github.com, *obviously*.
+- this line is added for no purpose other than to justify writing an *unordered list* to **practice markdown**.
 
+Now get some photo to calm your mind!
+
+
+![](https://lh3.googleusercontent.com/YGJ77qN9KiwctZgfqV8Bf3hNo0rZvcFaPKDTkvtS6kVbtwyCS80Pm6dpXzJCCLZE1Q)
